@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RQQJNEHM
 
 [Document4]
-DocumentPath=Schlib1.SchLib
+DocumentPath=..\..\..\..\..\..\Downloads\LIB_STM32G491VET3\STM32G491VET3\Altium\QFP50P1600X1600X160-100N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,7 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AYOOHIYP
+DocumentUniqueId=AGMOKFSE
 
 [Document5]
 DocumentPath=Schlib2.SchLib
